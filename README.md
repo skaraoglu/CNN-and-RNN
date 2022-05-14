@@ -1,0 +1,1 @@
+This project is the final homework of Deep Learning class. In this project, we present answers to questions about two Deep Learning areas. First we experiment with PCA and CNN on CIFAR10 dataset, further we focus on time series data analysis with LSTM and GRU. After each experiment, we provided the experiment results and compare different Deep Learning methods.
