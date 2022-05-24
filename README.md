@@ -1,1 +1,5 @@
 This project is the final homework of Deep Learning class. In this project, we present answers to questions about two Deep Learning areas. First we experiment with PCA and CNN on CIFAR10 dataset, further we focus on time series data analysis with LSTM and GRU. After each experiment, we provided the experiment results and compare different Deep Learning methods.
+
+# Introduction
+
+In this assignment, we provide answers to the questions presented in the final homework assignment. There are two different questions with subproblems. First part of the assignment focuses on the experiments with the CIFAR10 dataset1. We run PCA dimensionality reduction and train different Convolutional Neural Networks (CNNs). Further we present the experiment results and compare different models with their accuracy scores. In the second part of this project, we shift our focus to time series data experiment with Recurrent Neural Networks (RNNs) by training several LSTM and GRU models. We illuminate their performance by comparing their mean squared error (MSE) losses.
